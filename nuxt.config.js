@@ -9,7 +9,7 @@ export default {
     titleTemplate: '%s - nuxt1c',
     title: 'nuxt1c',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ru'
     },
     meta: [
       { charset: 'utf-8' },
